@@ -37,7 +37,7 @@ This analysis examines Canada's creditworthiness from an investor's perspective,
 - Influential member of the Commonwealth
 - Surrounded by the Arctic Ocean, Greenland, the Atlantic Ocean, Pacific Ocean, and the US
 
-## Credit Rating Assessment Framework
+## Credit Assessment Framework
 
 ### Governance and Policy Framework
 
@@ -231,6 +231,10 @@ Canada faces increasing pressure from climate transition requirements:
 - **Regional Vulnerability**: Resource-dependent provinces face higher transition costs
 
 ## Scenario Analysis
+
+![image](https://github.com/user-attachments/assets/bff6bdb4-3739-45bf-9cc1-b147e6b6ad28)
+
+![image](https://github.com/user-attachments/assets/1008234f-b341-415e-83d4-cb7b9999f6ea)
 
 ### Baseline Scenario
 
