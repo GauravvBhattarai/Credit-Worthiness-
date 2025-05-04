@@ -405,9 +405,14 @@ A calibrated Canadian investment limit balancing opportunity with prudent risk m
 | Canada T-Bill Jun 2026 | T-Bill | AAA | 3.05 | 0 | 1.936 | Underweight |
 | Canada 2.25% Mar 2029 | GoC Bond | AAA | 3.12 | 0 | 1.888 | Underweight |
 
+Putting this into an opportunity map for easier visualization and decision mapping, it can be plotted in the field as: 
+
+![image](https://github.com/user-attachments/assets/5ec3de01-e5d6-4f7e-b3b1-5a3d67d768c0)
+
+
 ## Risk Management Approach
 
-A comprehensive risk management strategy is essential when implementing Canadian investments:
+An in-depth risk management strategy is essential when implementing Canadian investments:
 
 ### FX Hedging Strategy:
 - **Volatility Assessment**: CAD/GBP exchange rate volatility forecasted at 5.96% for May 2025
